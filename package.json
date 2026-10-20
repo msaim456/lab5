@@ -1,0 +1,16 @@
+{
+  "name": "lab-5-fswd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run:all": "node run-all.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfjs-dist": "^6.4.299"
+  }
+}
